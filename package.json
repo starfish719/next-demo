@@ -1,0 +1,27 @@
+{
+  "name": "next-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starfish719/next-demo.git"
+  },
+  "keywords": [],
+  "author": "starfish719 (https://github.com/starfish719)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/starfish719/next-demo/issues"
+  },
+  "homepage": "https://github.com/starfish719/next-demo#readme",
+  "dependencies": {
+    "next": "^9.2.2",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  }
+}
